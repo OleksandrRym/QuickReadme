@@ -7,7 +7,6 @@
 - **Generate README from keywords:** Simply enter your project name, description, programming language, and frameworks/libraries, and QuickReadme will create a ready-to-use README.
 - **Quick templates:** Save time on documentation and get standardized files for your GitHub projects.
 - **Easy customization:** Edit the generated text to fit your needs.
-- **Supports multiple programming languages:** Easily adapt to any tech stack.
 
 ## ⚡ Example Usage
 

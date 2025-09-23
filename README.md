@@ -17,10 +17,8 @@
 
 
 ## 📦 Installation
-```https://github.com/OleksandrRym/QuickReadme.git
+```
+https://github.com/OleksandrRym/QuickReadme.git
 ollama pull ollama2:7b
 ollama run llama2:7b  
 im the program -> run main class
-
-
-

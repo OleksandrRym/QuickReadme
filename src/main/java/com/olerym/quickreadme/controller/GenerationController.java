@@ -20,7 +20,7 @@ import org.springframework.web.bind.annotation.RequestParam;
  */
 @Controller
 @RequiredArgsConstructor
-public class GenerationProcess {
+public class GenerationController {
   private final GenerationService generationService;
 
   @GetMapping("/")

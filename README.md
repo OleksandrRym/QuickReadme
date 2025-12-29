@@ -14,7 +14,6 @@
 ![Project Screenshot second page](assets/2.png)
 ![Project Screenshot example md](assets/3.png)
 
-
 ## 📦 Installation
 ```
 https://github.com/OleksandrRym/QuickReadme.git
